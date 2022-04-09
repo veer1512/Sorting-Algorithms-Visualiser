@@ -22,8 +22,3 @@ __Tech Specifications__:
 - Python 3.9.0
 - Tkinter 8.6
 
----
-
-__For More Insights__ :
-- READ Project's Wiki Page (https://github.com/SathvikPN/Sorting-Algorithms-Visualizer/wiki)
-- Go through Project's commits history.
